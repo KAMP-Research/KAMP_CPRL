@@ -1,4 +1,4 @@
-# Karlsruhe Architectural Maintainability Prediction (KAMP) [![Build Status](https://travis-ci.org/MartinLoeper/KAMP-2.0.svg?branch=master)](https://travis-ci.org/MartinLoeper/KAMP-2.0) [![Issues](https://img.shields.io/github/issues/MartinLoeper/KAMP-2.0.svg)](https://github.com/MartinLoeper/KAMP-2.0/issues) [![License](https://img.shields.io/github/license/MartinLoeper/KAMP-2.0.svg)](https://raw.githubusercontent.com/MartinLoeper/KAMP-2.0/master/LICENSE) [![Deployment](https://img.shields.io/github/last-commit/MartinLoeper/KAMP-2.0/master.svg?label=last%20deployed%20nightly)](https://martinloeper.github.io/updatesite/nightly) [![Release](https://img.shields.io/github/release/MartinLoeper/KAMP-2.0.svg)](https://martinloeper.github.io/updatesite/release)
+# Karlsruhe Architectural Maintainability Prediction (KAMP) [![Build Status](https://travis-ci.org/KAMP-Research/KAMP_CPRL.svg?branch=master)](https://travis-ci.org/KAMP-Research/KAMP_CPRL) [![Issues](https://img.shields.io/github/issues/KAMP-Research/KAMP_CPRL.svg)](https://github.com/KAMP-Research/KAMP_CPRL/issues) [![License](https://img.shields.io/github/license/KAMP-Research/KAMP_CPRL.svg)](https://raw.githubusercontent.com/KAMP-Research/KAMP_CPRL/master/LICENSE) [![Deployment](https://img.shields.io/github/last-commit/KAMP-Research/KAMP_CPRL/master.svg?label=last%20deployed%20nightly)](https://martinloeper.github.io/updatesite/nightly) [![Release](https://img.shields.io/github/release/KAMP-Research/KAMP_CPRL.svg)](https://martinloeper.github.io/updatesite/release)
 
 KAMP is an approach to analyze the change propagation in a software system from technical and organizational perspectives. It is based on the software architecture annotated with technical (e.g. deployment) and organizational artifacts (e.g. management).
 
@@ -21,6 +21,7 @@ More information at the [updatesite repository](https://github.com/MartinLoeper/
 ## Related Projects
 1) This project is a major restructuring of the [submodule-based KAMP repository](https://github.com/KAMP-Research/KAMP).
 2) This project includes the [KAMP Rule Language](https://github.com/MartinLoeper/KAMP-DSL).
+3) This project originates from [KAMP 2.0](https://github.com/MartinLoeper/KAMP-2.0). It was handed over after the Bachelor Thesis.
 
 ## Changelog
 - This fork brings Continuous Integration to KAMP and enables our partners to install the framework more easily.
